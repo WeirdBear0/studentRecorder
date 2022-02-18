@@ -1,0 +1,7 @@
+#button{
+    background: green;
+    color: white;
+    padding: 5px 5px;
+    cursor: pointer;
+    border : 1px solid green;
+}
